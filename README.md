@@ -7,3 +7,7 @@
 
 HacApt is a package manager for hackers built by hackers that focuses on the installation of information security tools. HacApt is built with security in mind so everything is done over Tor connections.
 
+# Helpful links
+
+ - [Homepage](https://ekultek.github.io/HacApt/)
+ - [User Manual]()
