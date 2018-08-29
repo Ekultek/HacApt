@@ -1,6 +1,6 @@
 
 <div style="text-align:center">
-<img src="https://user-images.githubusercontent.com/14183473/44804498-1b320e00-ab87-11e8-868d-cfa0c7058a0b.png">
+<img height="200" src="https://user-images.githubusercontent.com/14183473/44804498-1b320e00-ab87-11e8-868d-cfa0c7058a0b.png">
 </div>
 
 # HacApt
