@@ -1,3 +1,4 @@
 requests<=2.19.1
 pyyaml==3.13
 pysocks==1.6.8
+beautifulsoup4
