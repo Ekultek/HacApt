@@ -11,7 +11,7 @@ HacApt is a package manager for hackers built by hackers that focuses on the ins
 
 Here's the first demo video of HacApt
 
-[![HacApt](![firstlookhacapt](https://user-images.githubusercontent.com/14183473/44936485-8cfe8900-ad3a-11e8-8337-63131d74d515.png))](https://vimeo.com/287728646 "#staysalty")
+[![HacApt](https://user-images.githubusercontent.com/14183473/44936485-8cfe8900-ad3a-11e8-8337-63131d74d515.png)](https://vimeo.com/287728646 "#staysalty")
 
 # Helpful links
 
